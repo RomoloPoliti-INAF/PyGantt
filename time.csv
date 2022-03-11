@@ -1,0 +1,12 @@
+Session, Task, Start, durate,label
+Sviluppo, Sviluppo Core, 2022-01-01, 160d,a1
+Sviluppo, Sviluppo CLI, after a1,160d,a2
+Sviluppo, Sviluppo Validatore, after a2,160d, a3
+Documentazione,Manuale d'uso,2022-01-01, 360d,a4
+Documentazione,Manuale scrittura modello,2022-12-01,200d,a9
+Documentazione,Scrittura Articolo, 2023-05-09,200d,a10
+Test,Test ISA, after a3, 70d,a5
+Test,Test VIRTIS VEX,after a5, 70d,a6
+Test,Test VIRTIS ROSETTA,after a6, 70d,a7
+Test,Test PFS MEX,after a7,70d,a8
+Test,Test JUICE JANUS,after a8,70d,a11
