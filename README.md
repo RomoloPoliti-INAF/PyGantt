@@ -14,3 +14,11 @@ Option| Description
 **-x**, **--xticks** *NUM*|  Set the x Thicks frequency to NUM. The default is every month (1)
 **-s**, **--show**| Display the plot. No output will be saved
 **-d**, **--display**|         Display the input data and the computed one and exit
+
+### Example
+Create a Gantt diamgram using the data in the file *time.csv* and save it in the file *doc/example.png*
+```bash
+$ ./PyGantt.py -i time.csv -o doc/example.png
+```
+The result is:
+![Example Gantt Diagram](doc/example.png)
